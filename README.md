@@ -24,7 +24,7 @@ To get started with this project, follow these steps:
 
    ```bash
    cd your-repository
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/rohan12345a/GAN-ARS-Div-B-Data_Augmentation.git
    python main.py
    streamlit run deployment.py
    
