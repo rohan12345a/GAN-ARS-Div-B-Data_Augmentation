@@ -16,6 +16,30 @@
    - The generated images can be downloaded as a zip file for further use in machine-learning/deep-learning tasks.
 
 
+### Data Description
+
+The dataset used in this project is the Food-101 dataset, which contains a diverse collection of food images spanning various categories. Each food category consists of high-resolution images showcasing different variations and presentations of the respective dishes. The dataset is organized into folders, with each folder representing a specific food category.
+
+#### Selected Classes:
+
+- Garlic Bread
+- Chicken Wings
+- Frozen Yogurt
+- Dumplings
+- French Fries
+- Cheese Cake
+- Donut
+- Cupcakes
+
+#### Dataset Composition:
+
+- Each class folder contains approximately 1000 images.
+- The images are resized to dimensions of 64x64 pixels for training the CGAN model.
+
+DATASET LINK: https://www.kaggle.com/datasets/kmader/food41
+
+
+
 ### Usage and Getting Started
 
 To get started with this project, follow these steps:
