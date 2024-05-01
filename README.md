@@ -5,14 +5,14 @@
 ### OVERVIEW
 
 1. main.py:
-   This file contains all the code related to CGAN implementation, from data loading to model training and evaluation.
-   It includes functions for data loading, defining the generator and discriminator networks, specifying the loss function and optimizer, and setting up the training process.
-   At the end of the file, evaluation metrics such as Intra-class Inception Distance (IID), Kernel Inception Distance (KID), and Inception Score (IS) are calculated to assess 
-   the performance of the trained model.
+   -This file contains all the code related to CGAN implementation, from data loading to model training and evaluation.
+   -It includes functions for data loading, defining the generator and discriminator networks, specifying the loss function and optimizer, and setting up the training process.
+   -At the end of the file, evaluation metrics such as Intra-class Inception Distance (IID), Kernel Inception Distance (KID), and Inception Score (IS) are calculated to assess 
+   -the performance of the trained model.
 
 2. deployment.py:
-   This file contains the code for deploying the trained CGAN model using Streamlit.
-   It provides a user-friendly interface for data augmentation, allowing users to select a specific food category and specify the number of images to generate.
-   Users also have the option to apply various image augmentation techniques such as rotation, flips, cropping, scaling, and adjusting brightness/contrast.
-   The generated images can be downloaded as a zip file for further use in machine-learning/deep-learning tasks.
+   -This file contains the code for deploying the trained CGAN model using Streamlit.
+   -It provides a user-friendly interface for data augmentation, allowing users to select a specific food category and specify the number of images to generate.
+   -Users also have the option to apply various image augmentation techniques such as rotation, flips, cropping, scaling, and adjusting brightness/contrast.
+   -The generated images can be downloaded as a zip file for further use in machine-learning/deep-learning tasks.
    
