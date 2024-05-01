@@ -14,3 +14,15 @@
    - It provides a user-friendly interface for data augmentation, allowing users to select a specific food category and specify the number of images to generate.
    - Users also have the option to apply various image augmentation techniques such as rotation, flips, cropping, scaling, and adjusting brightness/contrast.
    - The generated images can be downloaded as a zip file for further use in machine-learning/deep-learning tasks.
+
+
+### Usage and Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+
+
