@@ -39,6 +39,9 @@ The dataset used in this project is the Food-101 dataset, which contains a diver
 DATASET LINK: https://www.kaggle.com/datasets/kmader/food41
 
 
+### VIDEO DEMONSTRATION
+
+https://github.com/rohan12345a/GAN-ARS-Div-B-Data_Augmentation/assets/109196424/b48fec95-021c-4426-b339-346196278b17
 
 
 ### Usage and Getting Started
